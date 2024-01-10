@@ -13,7 +13,7 @@
 
   ## **Загрузка и обработка данных**
 
-[ipynb](https://github.com/alsuhow/onko_stat/blob/main/Project%20Onko_GH.ipynb)
+[ipynb](https://github.com/alsuhow/onko_stat/blob/main/Project%20Onko_GH%20.ipynb)
 - Загрузить данные:
     - Подключиться к Яндекс диску;
     - Создать список файлов для загрузки через списочное выражение: использование os.chdir(), os.listdir(), str.endswith();
